@@ -5,7 +5,8 @@ title: AB
 📍 I'm a Software Engineer at [Verloop](https://www.verloop.io). I'm interesting in building distributed systems, Compilers and databases.
 I'm acquainted with Go and Python.
 
-Sometime back, I was a Researcher, mostly interested in the field of cryptography, Computational Mathematics and it's related areas. I've previously worked on: Contact Tracing Systems, Blockchain driven Access control systems and Lightweight Cryptography.
+Sometime back, I was a Researcher, mostly interested in the field of cryptography, Computational Mathematics and it's related areas.
+I've previously worked on: Contact Tracing Systems, Blockchain driven Access control systems and Lightweight Cryptography.
 
 ### 🧑🏻‍💻 Navigate to:
 
