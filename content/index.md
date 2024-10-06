@@ -10,9 +10,9 @@ I've previously worked on: Contact Tracing Systems, Blockchain driven Access con
 
 ### 🧑🏻‍💻 Navigate to:
 
-- **[[Write Ups]]**: My tech write-ups are here
+- **[Writeups](./writeups)**: My tech write-ups are here
 
-- **[[Research]]** You can find my published research here.
+- **[Research](./research)** You can find my published research here.
 
 ### 📁 Projects:
 * [guinevere](https://www.github.com/aaqibb13/guinevere):
