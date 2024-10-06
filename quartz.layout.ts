@@ -9,7 +9,6 @@ export const sharedPageComponents: SharedLayout = {
   footer: Component.Footer({
     links: {
       GitHub: "https://github.com/aaqibb13",
-      // "Discord Community": "https://discord.gg/cRFFHYye7t",
       Twitter: "https://x.com/reallifeglonk",
       LinkedIn: "https://www.linkedin.com/in/aaqibbashir",
       ORCID: "https://orcid.org/0000-0002-2656-2883",
@@ -47,7 +46,7 @@ export const defaultListPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
-    Component.DesktopOnly(Component.Explorer()),
+    // Component.DesktopOnly(Component.Explorer()),
   ],
   right: [],
 }
