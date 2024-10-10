@@ -1,3 +1,3 @@
 ## mostlycryptic
 
-About me, along with my research and what I tinker around.
+About me, along with my research, writeups and what I tinker around.
