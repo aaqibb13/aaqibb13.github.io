@@ -2,8 +2,8 @@
 title: AB
 ---
 
-📍 I'm a Software Engineer at [Verloop](https://www.verloop.io). I'm interesting in building distributed systems, Compilers and databases.
-I'm acquainted with Go and Python.
+📍 I'm a Software Engineer at [Verloop](https://www.verloop.io). I'm interesting in building distributed systems, Compiler constructions & workings and database internals.
+I'm acquainted with Go, Python, Javascript and Typescript. Trying to sneak into the Rustlang ecosystem as well.
 
 Sometime back, I was a Researcher, mostly interested in the field of cryptography, Computational Mathematics and it's related areas.
 I've previously worked on: Contact Tracing Systems, Blockchain driven Access control systems and Lightweight Cryptography.
