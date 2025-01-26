@@ -21,9 +21,6 @@ Plug-and-play configuration of ArangoDB offering creation of Collections, Analyz
 
 * [Gosh](https://github.com/aaqibb13/gosh): A toy shell written in Go
 
-### 🌟 Miscellaneous:
-
-- [Medium](https://aaqibb13.medium.com): I sometimes write on medium as well.
 
 ### My Open Source contributions
 - [dgraph-io](https://github.com/dgraph-io): Only minor contributions to the documentation. Refer to [PR #618](https://github.com/dgraph-io/dgraph-docs/pull/618), [PR #687](https://github.com/dgraph-io/dgraph-docs/pull/687), [PR #688](https://github.com/dgraph-io/dgraph-docs/pull/688)
@@ -35,3 +32,7 @@ Plug-and-play configuration of ArangoDB offering creation of Collections, Analyz
 - [elastic](https://github.com/elastic): Issue checking/finding dependencies in Elastic APM for the Go Agent. See [Issue here](https://github.com/elastic/apm-agent-go/issues/1300)
 - [go-gorm](https://github.com/go-gorm): Minor documentation change. (See [PR #557](https://github.com/go-gorm/gorm.io/pull/557))
 - [agiliq](https://github.com/agiliq): Minor documentation update (See [PR #71](https://github.com/agiliq/building-api-django/pull/71))
+
+### 🌟 Miscellaneous:
+
+- [Medium](https://aaqibb13.medium.com): I sometimes write on medium as well.
