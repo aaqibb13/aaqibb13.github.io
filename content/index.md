@@ -34,5 +34,4 @@ Plug-and-play configuration of ArangoDB offering creation of Collections, Analyz
 - [agiliq](https://github.com/agiliq): Minor documentation update (See [PR #71](https://github.com/agiliq/building-api-django/pull/71))
 
 ### 🌟 Miscellaneous:
-
 - [Medium](https://aaqibb13.medium.com): I sometimes write on medium as well.
