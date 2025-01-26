@@ -22,7 +22,7 @@ Plug-and-play configuration of ArangoDB offering creation of Collections, Analyz
 * [Gosh](https://github.com/aaqibb13/gosh): A toy shell written in Go
 
 
-### My Open Source contributions
+### 🔒 My Open Source contributions
 - [dgraph-io](https://github.com/dgraph-io): Only minor contributions to the documentation. Refer to [PR #618](https://github.com/dgraph-io/dgraph-docs/pull/618), [PR #687](https://github.com/dgraph-io/dgraph-docs/pull/687), [PR #688](https://github.com/dgraph-io/dgraph-docs/pull/688)
 - [ArangoDB](https://github.com/arangodb):
     - Issue with async database instance in the [Python driver](https://github.com/arangodb/python-arango). See [Issue here](https://github.com/arangodb/python-arango/issues/226)
