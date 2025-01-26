@@ -32,6 +32,6 @@ Plug-and-play configuration of ArangoDB offering creation of Collections, Analyz
     - Issues while creating analyzer types for enhanced search (ngram and pipeline) in the [Python driver](https://github.com/arangodb/python-arango). See [Issue here](https://github.com/arangodb/python-arango/issues/204)
     - Issue while creating custom analyzer for text processing using the [Go driver](https://github.com/arangodb/go-driver). See [Issue here](https://github.com/arangodb/go-driver/issues/392)
 - [astral-sh]():
-- [elastic](https://github.com/elastic): Issue checking/finding dependencies in Elastic APM.
+- [elastic](https://github.com/elastic): Issue checking/finding dependencies in Elastic APM for the Go Agent. See [Issue here](https://github.com/elastic/apm-agent-go/issues/1300)
 - [go-gorm]():
 - [agiliq](https://github.com/agiliq): Minor documentation update (See [PR #71](https://github.com/agiliq/building-api-django/pull/71))
