@@ -24,3 +24,14 @@ Plug-and-play configuration of ArangoDB offering creation of Collections, Analyz
 ### 🌟 Miscellaneous:
 
 - [Medium](https://aaqibb13.medium.com): I sometimes write on medium as well.
+
+### My Open Source contributions
+- [dgraph-io](https://github.com/dgraph-io): Only minor contributions to the documentation. Refer to [PR #618](https://github.com/dgraph-io/dgraph-docs/pull/618), [PR #687](https://github.com/dgraph-io/dgraph-docs/pull/687), [PR #688](https://github.com/dgraph-io/dgraph-docs/pull/688)
+- [ArangoDB](https://github.com/arangodb):
+    - Issue with async database instance in the [Python driver](https://github.com/arangodb/python-arango). See [Issue here](https://github.com/arangodb/python-arango/issues/226)
+    - Issues while creating analyzer types for enhanced search (ngram and pipeline) in the [Python driver](https://github.com/arangodb/python-arango). See [Issue here](https://github.com/arangodb/python-arango/issues/204)
+    - Issue while creating custom analyzer for text processing using the [Go driver](https://github.com/arangodb/go-driver). See [Issue here](https://github.com/arangodb/go-driver/issues/392)
+- [astral-sh]():
+- [elastic](https://github.com/elastic): Issue checking/finding dependencies in Elastic APM.
+- [go-gorm]():
+- [agiliq](https://github.com/agiliq): Minor documentation update (See [PR #71](https://github.com/agiliq/building-api-django/pull/71))
