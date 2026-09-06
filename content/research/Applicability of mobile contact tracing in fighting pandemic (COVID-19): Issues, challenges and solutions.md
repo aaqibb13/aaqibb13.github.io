@@ -1,0 +1,18 @@
+---
+tags:
+  - covid-19
+  - contact-tracing
+  - privacy
+publish: true
+date: 2020-09-23
+authors: Aaqib Bashir Dar, Auqib Hamid Lone, Saniya Zahoor, Afshan Amin Khan, Roohie Naaz
+readingTime: "1 hour"
+journal: "Computer Science Review (Elsevier)"
+impactFactor: 17.5
+description: "Applicability of mobile contact tracing in fighting pandemic (COVID-19): Issues, challenges and solutions"
+
+manuscript_link: https://pdf.sciencedirectassets.com/276226/1-s2.0-S1574013720X00049/1-s2.0-S157401372030407X/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEFcaCXVzLWVhc3QtMSJHMEUCIQCvww%2B21RjXb6EyjGAmW1HRfK6WLCUdgu%2BdybDLLMRMmwIgMqjqONKNtrm%2FWol8wx5WPN8j9y%2FL8A2%2BvskHBqAFAScqsQUIIBAFGgwwNTkwMDM1NDY4NjUiDMns2CDwD8cc4Wi54SqOBZRgyGquSGOiL6TgrzA6E8kOipwzOK7Q140GPsLoanvqh2XMCcrywrnN4ogznmee1cPOAy%2B%2BcMg5ReXS5w5D9JtTOGh9kCdj0TjZv7zwstw5Tt%2F6k0bwX5aOcUW6TmQHSdC0WneFLPLDZRzfKdkhIprQLY0ClDEx0lcFDXmXUptlm8ZfuDrGXERrDjpe2yxmPaI8%2FrdWbhrLVGlDZAep%2Fj11KhF8g3rIkLkLh8P%2BxVs1vpgpucCG6j%2BAvsisXShANQiZZjgpdqZ2hI86ebd4esslyvzkSuvB7AbMm9xMROspNngquVeTtwrbNQvb58n1%2F18fp%2BfZs6%2BN9Ze4Cx5NvhBUmJNDQwyw%2BtbipZqBEeddGAa%2BwFE5st7pjggpK0ZP%2FdZGjrRiwDoi%2F0FTaAnU%2BCJEPblYxJpWpOdPKPtJJBdh1Nd%2FiEdrDx6HWEzSCtjVu2Xn6ko9%2FtzHMOcqnrdpVwu11Ns2LcC%2FA7nczyT5Nv4omgCbZlG5KxiFSVZ3q8u2zfSbbwk7tQSvwz14Kpx60YGFCXptBM3f4Z3%2FR2vcXKwZM%2Bnf%2FYtfOAwjw9TovKSJDKhRxcFZG%2FYBvHyyDZHZkpCDBK9vIQTmDBbgGzPe2qLHNWQE4s%2FOpD0ty12fqX8vp1jl9Y0Cw83a7pqgIJQ8NqgEagslesaDD4%2BoTKLG9XTSrhy522dw53ATYGrjkGcT1M6HwuIYOPKhH6Ao5dnLKa4jqQRlMe4CLsrCsIVQt%2F%2Fv1pQdqT%2FhSxaqkCx14EygnnIChmG4H%2FEbdSWUIsh8kWl2Dp3LFSC99QKYaRhQcpgIzPRMiCWQfbrYDHWRdzjilwE4nIhPFsa9Cr9CkuyxIW8TQrKsomh5S44bCPKuiTC6j%2FTUBjqxASRVFYXumBhP6Rk5LGHe4hdqSIJqlR59kWZJlNdoF8EAjM0jTe2yy%2Fk%2FoOyHjZ4Jr7l0orD%2BDtWXycp0Me%2BTEqMkg8yzQPeYaWdcctKUyevipk1Tg1VUQoTTDDz4Iy5HZyNt8bOeqOIinD4o9uOSSfp7hk8JZjmUA%2FJvPS78eMmK51NsEtpkqJDgw5j03Rc4G4q45%2FsNigwJrJLwLL4FKWLYOXb%2Bz90x5Qw6s0awfBGPyw%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20260906T075015Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTYWM5DA56O%2F20260906%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=0fc8118867ad5b109b0f503b439470b63d768039496222c599a315545c107efe&hash=476f3a2901026993cafc782e0f5ea0539c487d24b93e38bf4dc803a7a6d7d7bf&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S157401372030407X&tid=spdf-f3b43de6-e40e-47ca-a4e3-15a39e758f33&sid=ed64317f8b5a9348fb9815c69cc6648a3c34gxrqa&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&rh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=1308045357000a53065902&rr=a36be1b9bb9fa855&cc=in
+---
+
+`Abstract:`
+Contact Tracing is considered as the first and the most effective step towards containing an outbreak, as resources for mass testing and large quantity of vaccines are highly unlikely available for immediate utilization. Effective contact tracing can allow societies to reopen from lock-down even before availability of vaccines. The objective of mobile contact tracing is to speed up the manual interview based contact tracing process for containing an outbreak efficiently and quickly. In this article, we throw light on some of the issues and challenges pertaining to the adoption of mobile contact tracing solutions for fighting COVID-19. In essence, we proposed an Evaluation framework for mobile contact tracing solutions to determine their usability, feasibility, scalability and effectiveness. We evaluate some of the already proposed contact tracing solutions in light of our proposed framework. Furthermore, we present possible attacks that can be launched against contact tracing solutions along with their necessary countermeasures to thwart any possibility of such attacks.

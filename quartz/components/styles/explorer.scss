@@ -55,16 +55,21 @@ button#explorer {
 
   & ul {
     list-style: none;
-    margin: 0.08rem 0;
+    margin: 0.25rem 0;
     padding: 0;
     transition:
       max-height 0.35s ease,
       transform 0.35s ease,
       opacity 0.2s ease;
-    & li > a {
-      color: var(--dark);
-      opacity: 0.75;
-      pointer-events: all;
+
+    & li {
+      margin: 0.10rem 0rem;
+
+      & > a {
+        color: var(--dark);
+        opacity: 0.75;
+        pointer-events: all;
+      }
     }
   }
 }

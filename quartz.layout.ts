@@ -5,7 +5,7 @@ import * as Component from "./quartz/components"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [],
+  afterBody: [Component.Breadcrumbs()],
   footer: Component.Footer({
     links: {
       GitHub: "https://github.com/aaqibb13",
@@ -23,13 +23,30 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ArticleTitle(),
     Component.ContentMeta(),
     Component.TagList(),
+    Component.Explorer({
+          title:"Explorer",
+          folderClickBehavior: "link",
+          folderDefaultState: "collapsed",
+          useSavedState: false,
+          mapFn: (node) => {
+            if (node.displayName.toLowerCase() == "write ups"){
+                node.displayName = "Write Ups"
+            }else if(node.displayName.toLowerCase() == "research"){
+                node.displayName = "Research"
+            }
+          },
+          filterFn: (node) => {
+            const omit = new Set(["oss", "tags", "hosting","projects"])
+            return !omit.has(node.displayName.toLowerCase())
+          },
+          order: ["filter", "map", "sort"],
+        }),
   ],
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
-    Component.DesktopOnly(Component.Explorer()),
   ],
   right: [
     // Component.Graph(),

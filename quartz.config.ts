@@ -23,7 +23,7 @@ const config: QuartzConfig = {
       cdnCaching: true,
       typography: {
         header: "Schibsted Grotesk",
-        body: "Montserrat",
+        body: "Poppins",
         code: "IBM Plex Mono",
       },
       colors: {
